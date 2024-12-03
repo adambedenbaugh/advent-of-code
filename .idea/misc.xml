@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="executionMode" value="BINARY" />
     <option name="pathToExecutable" value="C:\Python311\Scripts\black.exe" />
-    <option name="sdkUUID" value="b626669c-c594-4575-9a17-5dc6caedb3fc" />
+    <option name="sdkName" value="Python 3.11 (advent-of-code)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (advent-of-code)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (2)" project-jdk-type="Python SDK" />
 </project>
