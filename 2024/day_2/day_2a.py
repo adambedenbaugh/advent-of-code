@@ -30,7 +30,7 @@ def is_saft_with_dampener(arr):
     return False
 
 
-# First half
+# Part 1
 saft = 0
 for line in content:
     report = [int(x) for x in line.split()]
@@ -38,7 +38,7 @@ for line in content:
 
 print(f'First Half safe:  {saft}')
 
-# Second half
+# Part 2
 saft = 0
 for line_number, line in enumerate(content):
     report = [int(x) for x in line.split()]
